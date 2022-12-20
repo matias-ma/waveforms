@@ -1,3 +1,3 @@
-# atwd_waveform
+# waveforms
 
-Generates the ATWD waveforms for a I3 file with the IceCube Neutrino Observatory
+Generates the waveforms (ATWD or FADC) for I3 files with the IceCube Neutrino Observatory
