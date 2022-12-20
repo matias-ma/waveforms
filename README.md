@@ -1,3 +1,3 @@
-# atwd_wf
+# atwd_waveform
 
-Generates the ATWD waveforms for a IceCube simulation
+Generates the ATWD waveforms for a I3 file with the IceCube Neutrino Observatory
